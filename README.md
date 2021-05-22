@@ -1,5 +1,10 @@
 # template-nextjs
 
-### **Usage:**
-[x]npm i
-[x]npm run dev
+> ### **Usage:**
+>> **npm i**
+>> 
+> and
+>> 
+>> **npm run dev**
+
+*Discord: Erato#5595*
