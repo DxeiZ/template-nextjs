@@ -7,4 +7,4 @@
 >> 
 >> **npm run dev**
 
-*Discord: Erato#5595*
+**Discord: Erato#5595**
